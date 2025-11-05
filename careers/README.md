@@ -44,12 +44,6 @@ Tell us:
 
 ---
 
-## Our Hiring Process
-
-[To be added: Typical hiring timeline and process]
-
----
-
 ## Questions?
 
 Email us at [hello@west.co](mailto:hello@west.co)
