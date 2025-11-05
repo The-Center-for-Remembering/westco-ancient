@@ -1,0 +1,15 @@
+<svg id="logo" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77 77">
+  <defs>
+    <style>.cls-1 {fill: #c0362c;}</style>
+  </defs>
+  <polygon class="cls-1" points="35 42 35 49 7 49 7 56 35 56 35 77 0 77 0 70 28 70 28 63 0 63 0 42 35 42"/>
+  <polygon class="cls-1" points="42 42 77 42 77 49 63 49 63 77 56 77 56 49 42 49 42 42"/>
+  <rect class="cls-1" x="42" y="56" width="7" height="21"/>
+  <rect class="cls-1" x="70" y="56" width="7" height="21"/>
+  <rect class="cls-1" x="42" y="28" width="35" height="7"/>
+  <rect class="cls-1" x="42" y="14" width="35" height="7"/>
+  <rect class="cls-1" x="42" width="35" height="7"/>
+  <rect class="cls-1" x="28" width="7" height="35"/>
+  <rect class="cls-1" x="14" width="7" height="35"/>
+  <polygon class="cls-1" points="0 0 7 0 7 35 0 35 0 0"/>
+</svg>

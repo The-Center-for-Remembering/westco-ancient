@@ -1,2 +1,63 @@
-# westco-ancient
-West Co. builds platforms to help people live life more on purpose, starting with our own team. This is how we do it.
+# West Co.
+
+<img src="assets/logo.svg" width="44" alt="West Co. Logo">
+
+## Workshop for Emotional and Spiritual Technology Corporation
+
+Building platforms to help people live life more on purpose.
+
+---
+
+## Tangle: Life on Purpose
+
+<img src="assets/tangle-icon.svg" width="120" alt="Tangle App Icon">
+
+Try our app **Tangle** – available on the App Store.
+
+[Download on the App Store](https://apps.apple.com/us/app/tangle-life-on-purpose/id6596770837)
+
+---
+
+## Join Our Team
+
+We're building something special and looking for passionate people to join us.
+
+- 🎚️ [Product Engineer](careers/product-engineer.md)
+- 🖌️ [Product Designer](careers/product-designer.md)
+- 🙋 [Suggest a Role to Us](mailto:hello@west.co)
+
+[View all open positions →](careers/)
+
+---
+
+## Who We Are
+
+We partner **future technologists** inventing online platforms with **ancient technologists** devoted to wisdom.
+
+[Meet the team →](TEAM.md)
+
+---
+
+## How We Work
+
+> We've learned that **how we are together** becomes the **impact we have together**.
+
+We invest **3% of our work time** into intentional practices to foster **100% more team depth**.
+
+### Our Practices
+
+- 🤲 [Small Groups](practices/small-groups.md) – Deepen our connections
+- 🕯️ [Ancestor Tables](practices/ancestor-tables.md) – Stay rooted in what matters
+- ❄️ [Working With the Seasons](practices/working-with-seasons.md) – Stay in rhythm with the world
+- 🛟 [Practicing Covenant](practices/practicing-covenant.md) – Try our best to grow together
+
+[Learn about our practices →](practices/)
+
+---
+
+## About West Co.
+
+**West Co. is a Public Benefit Corporation.**
+We are based in San Francisco, CA.
+
+Want to say hi? Email [hello@west.co](mailto:hello@west.co)

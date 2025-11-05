@@ -1,0 +1,32 @@
+# ❄️ Working With the Seasons
+
+> **We Work With the Seasons to stay in rhythm with the world.**
+
+---
+
+## Seasons @ West Co.
+
+The product we're making helps people experience time differently. We have a strong intuition that we can't build this experience effectively until we too are off autopilot and live more in sync with natural rhythms. That's why instead of talking about quarters and fiscal years we synchronize our team and production schedules with seasons.
+
+### How We Practice
+
+- We **roadmap our product** based on seasons.
+- We **re-tune our small groups** every two seasons.
+- We **gather as a whole team** on the equinoxes (September and March) and solstices (June and December).
+- When we gather in person, we share **light-touch opening and closing rituals** to remind us when we are.
+- We **remember what season we're in**, and try to ground our work in each season's unique attributes.
+
+---
+
+## Seasons & Natural Cycles Provocations
+
+|  | Winter ❄️ | Spring 🌱 | Summer ☀️ | Fall 🍂 |
+| :---- | :---- | :---- | :---- | :---- |
+| **Themes** | going inward, stillness, dormancy, darkness, endings, reflection, recharging, new starts | awakening from slumber, fertility, frolicking, new/rapid growth, positivity, potential, innocence | abundance, ripening, leisure, warmth, vitality, freedom, play, fulfillment | harvest time, transitions, starting new things, abundance, nature, thanksgiving, color, letting go |
+| **Archetypes** | Death, Hermit, Pentacles, The Crone/Wise Old Man | Maiden, The Fool, Eros, Persephone's return | Mother, The Empress, The Sun, Dionysus/Bacchus, Cups | Elder, Sage, Death, Swords |
+| **Associations and Metaphors** | energy conservation, nest and cocoon, coldness, prepare for future growth, take stock | mating/making babies, spring cleaning, cleaning house, opening up windows, green things, animal babies being born, planting seeds, hope/optimism | fruit, full blooms, long days, sunlight, relaxation, being outdoors, vacation | buttoning up the house, nesting, planning and preparing, rewards of hard work, gathering resources, changing foliage, leaves dropping, transition times, sweatah weatha |
+| **Implications for West Cycles** | **Planning** – attending to sacred nos, noticing what's not working, adapting to harsh environments, buttoning up systems, reflection | **Becoming** – refreshing stale practices, bringing in new people, letting loose, driving forward, fostering creativity | **Accelerating** – being, being outside, playing and fun, attending to family, promoting wellness, taking a break, asynchronicity | **Taking Stock** – belonging, bringing in elders, R&D focus: learning time, re/alignment, discipline, recommitment |
+
+---
+
+[← Back to Practices](README.md) | [Home](../README.md)
