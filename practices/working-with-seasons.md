@@ -20,12 +20,51 @@ The product we're making helps people experience time differently. We have a str
 
 ## Seasons & Natural Cycles Provocations
 
-|  | Winter ❄️ | Spring 🌱 | Summer ☀️ | Fall 🍂 |
-| :---- | :---- | :---- | :---- | :---- |
-| **Themes** | going inward, stillness, dormancy, darkness, endings, reflection, recharging, new starts | awakening from slumber, fertility, frolicking, new/rapid growth, positivity, potential, innocence | abundance, ripening, leisure, warmth, vitality, freedom, play, fulfillment | harvest time, transitions, starting new things, abundance, nature, thanksgiving, color, letting go |
-| **Archetypes** | Death, Hermit, Pentacles, The Crone/Wise Old Man | Maiden, The Fool, Eros, Persephone's return | Mother, The Empress, The Sun, Dionysus/Bacchus, Cups | Elder, Sage, Death, Swords |
-| **Associations and Metaphors** | energy conservation, nest and cocoon, coldness, prepare for future growth, take stock | mating/making babies, spring cleaning, cleaning house, opening up windows, green things, animal babies being born, planting seeds, hope/optimism | fruit, full blooms, long days, sunlight, relaxation, being outdoors, vacation | buttoning up the house, nesting, planning and preparing, rewards of hard work, gathering resources, changing foliage, leaves dropping, transition times, sweatah weatha |
-| **Implications for West Cycles** | **Planning** – attending to sacred nos, noticing what's not working, adapting to harsh environments, buttoning up systems, reflection | **Becoming** – refreshing stale practices, bringing in new people, letting loose, driving forward, fostering creativity | **Accelerating** – being, being outside, playing and fun, attending to family, promoting wellness, taking a break, asynchronicity | **Taking Stock** – belonging, bringing in elders, R&D focus: learning time, re/alignment, discipline, recommitment |
+### Winter ❄️
+
+**Themes:** going inward, stillness, dormancy, darkness, endings, reflection, recharging, new starts
+
+**Archetypes:** Death, Hermit, Pentacles, The Crone/Wise Old Man
+
+**Associations and Metaphors:** energy conservation, nest and cocoon, coldness, prepare for future growth, take stock
+
+**Implications for West Cycles:** **Planning** – attending to sacred nos, noticing what's not working, adapting to harsh environments, buttoning up systems, reflection
+
+---
+
+### Spring 🌱
+
+**Themes:** awakening from slumber, fertility, frolicking, new/rapid growth, positivity, potential, innocence
+
+**Archetypes:** Maiden, The Fool, Eros, Persephone's return
+
+**Associations and Metaphors:** mating/making babies, spring cleaning, cleaning house, opening up windows, green things, animal babies being born, planting seeds, hope/optimism
+
+**Implications for West Cycles:** **Becoming** – refreshing stale practices, bringing in new people, letting loose, driving forward, fostering creativity
+
+---
+
+### Summer ☀️
+
+**Themes:** abundance, ripening, leisure, warmth, vitality, freedom, play, fulfillment
+
+**Archetypes:** Mother, The Empress, The Sun, Dionysus/Bacchus, Cups
+
+**Associations and Metaphors:** fruit, full blooms, long days, sunlight, relaxation, being outdoors, vacation
+
+**Implications for West Cycles:** **Accelerating** – being, being outside, playing and fun, attending to family, promoting wellness, taking a break, asynchronicity
+
+---
+
+### Fall 🍂
+
+**Themes:** harvest time, transitions, starting new things, abundance, nature, thanksgiving, color, letting go
+
+**Archetypes:** Elder, Sage, Death, Swords
+
+**Associations and Metaphors:** buttoning up the house, nesting, planning and preparing, rewards of hard work, gathering resources, changing foliage, leaves dropping, transition times, sweatah weatha
+
+**Implications for West Cycles:** **Taking Stock** – belonging, bringing in elders, R&D focus: learning time, re/alignment, discipline, recommitment
 
 ---
 

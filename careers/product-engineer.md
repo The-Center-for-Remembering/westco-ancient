@@ -1,4 +1,4 @@
-# 🎚️ Software Engineer – Product
+# 🎚️ Product Engineer
 
 **West Co.**
 
@@ -66,6 +66,12 @@ Finally, who you are as a human being matters a lot to us. We're looking for a *
 ## Work Environment
 
 This role reports to Ben Finkel, who manages Engineering for West Co. and also helps lead product development. While some of our team works out of our headquarters in the Presidio of San Francisco, our engineering and design teams are fully remote. Our full company meets on Zoom every week and in person in San Francisco once per season.
+
+---
+
+## How to Apply
+
+To apply, email [ben@west.co](mailto:ben@west.co)
 
 ---
 

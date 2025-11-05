@@ -57,4 +57,4 @@ At West Co., we bring together **future technologists** building online platform
 
 ---
 
-[← Back to Home](README.md)
+[← Home](README.md)

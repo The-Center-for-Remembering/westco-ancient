@@ -61,4 +61,4 @@ These practices aren't just nice-to-haves. They're core to how we work. We belie
 
 ---
 
-[← Back to Home](../README.md)
+[← Home](../README.md)

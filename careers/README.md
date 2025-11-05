@@ -50,4 +50,4 @@ Email us at [hello@west.co](mailto:hello@west.co)
 
 ---
 
-[← Back to Home](../README.md)
+[← Home](../README.md)

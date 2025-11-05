@@ -65,4 +65,10 @@ This is that rare, once-in-a-decade window where the product is real but still m
 
 ---
 
+## How to Apply
+
+To apply, email [ben@west.co](mailto:ben@west.co)
+
+---
+
 [← Back to Careers](README.md) | [Home](../README.md)
