@@ -1,6 +1,6 @@
 # Join Our Team
 
-We're building platforms to help people live life more on purpose—starting with our own team.
+We're building to help people live life more on purpose—starting with our own team.
 
 At West Co., we believe that **how we are together** becomes the **impact we have together**. That's why we invest in practices that foster deep connection, wisdom, and rhythm with the natural world.
 

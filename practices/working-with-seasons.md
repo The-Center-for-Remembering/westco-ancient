@@ -6,7 +6,7 @@
 
 ## Seasons @ West Co.
 
-The product we're making helps people experience time differently. We have a strong intuition that we can't build this experience effectively until we too are off autopilot and live more in sync with natural rhythms. That's why instead of talking about quarters and fiscal years we synchronize our team and production schedules with seasons.
+The product we’re making helps people experience time differently. We don’t think we can build this experience effectively until we too are off autopilot and live more in sync with natural rhythms. That’s why instead of talking about quarters and fiscal years we synchronize our team and production schedules with seasons. 
 
 ### How We Practice
 

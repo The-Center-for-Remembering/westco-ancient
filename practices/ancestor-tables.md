@@ -8,11 +8,11 @@
 
 Our ancestors have a treasured place in our physical space and daily routine. These are our grandparents, uncles, teachers, mentors, children, exemplars, parents, and saints. They greet us every day, reminding us of the many lineages we share, of the stories they have told us and the lessons they would have us remember.
 
-Our ancestor table is just inside the front door of our office. The first person who comes in each day lights the vigil candle, which then burns all day until the last person to leave puts it out. We take lots of care with this table, the candle, the frames, and the matches. We want the table to feel delightful and important.
+Our ancestor table is just inside the front door of our office. The first person who comes in each day lights the vigil candle, which burns until the last person to leave puts it out. We want the table to feel delightful and important, so we take special care with this table, the candle, the frames, and the matches. 
 
 ![Our ancestor table with photos, vigil candle, and flowers](../assets/ancestor-table.jpg)
 
-When a new person joins our team we ask them to choose someone to add. The first time that person visits the office, we take a few minutes for them to tell us about who this person is and why they matter.
+When a new person joins our team we ask them to choose someone to add. The first time our new colleague visits the office, we take a few minutes for them to tell us about who their person is and why they matter.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > We've learned that **how we are together** becomes the **impact we have together**.
 
-At West Co., we invest **3% of our work time** into intentional practices to foster **100% more team depth**.
+At West Co., we invest about **3% of our time** into these practices, fostering **100% more team depth**.
 
 These practices help us stay connected to each other, rooted in what matters, and in rhythm with the world around us.
 
