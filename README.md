@@ -12,7 +12,7 @@ Building to help people live life more on purpose.
 
 <img src="assets/tangle-icon.svg" width="120" alt="Tangle App Icon">
 
-Try our app **Tangle** – available on the App Store.
+Try **Tangle** – available on the App Store.
 
 [Download on the App Store](https://apps.apple.com/us/app/tangle-life-on-purpose/id6596770837)
 
@@ -42,7 +42,7 @@ We partner **future technologists** inventing online platforms with **ancient te
 
 > We've learned that **how we are together** becomes the **impact we have together**.
 
-We invest about **3% of our time** into these practices, fostering **100% more team depth**.
+We invest **3% of our work time** into intentional practices to foster **100% more team depth**.
 
 ### Our Practices
 
