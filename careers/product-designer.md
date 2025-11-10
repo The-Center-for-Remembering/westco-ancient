@@ -1,4 +1,4 @@
-# 🖌️ Designer
+# 🖌️ Product Designer
 
 **West Co.**
 
