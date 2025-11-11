@@ -1,6 +1,6 @@
 # ❄️ Working With the Seasons
 
-> **We Work With the Seasons to stay in rhythm with the world.**
+> **We work with the seasons to stay in rhythm with the world.**
 
 ---
 

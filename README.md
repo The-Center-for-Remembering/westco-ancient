@@ -44,12 +44,12 @@ We invest about **3% of our time** into these practices, fostering **100% more t
 
 ### Our Practices
 
-- 🤲 [Small Groups](practices/small-groups.md) – Deepen our connections
-- 🕯️ [Ancestor Tables](practices/ancestor-tables.md) – Stay rooted in what matters
-- ❄️ [Working With the Seasons](practices/working-with-seasons.md) – Stay in rhythm with the world
-- 🛟 [Practicing Covenant](practices/practicing-covenant.md) – Try our best to grow together
+- 🤲 [Small Groups](https://west.co/small-groups.pdf) – Deepen our connections
+- 🕯️ [Ancestor Tables](https://west.co/ancestor-table.pdf) – Stay rooted in what matters
+- ❄️ [Working With the Seasons](https://west.co/seasons.pdf) – Stay in rhythm with the world
+- 🛟 [Practicing Covenant](https://west.co/covenant.pdf) – Try our best to grow together
 
-[Learn about our practices →](practices/)
+[Learn about our practices →](https://west.co/#practices)
 
 ---
 
