@@ -22,11 +22,9 @@ Try **Tangle** – available on the App Store.
 
 We're building something special and looking for passionate people to join us.
 
-- 🎚️ [Product Engineer](careers/product-engineer.md)
-- 🖌️ [Product Designer](careers/product-designer.md)
+- 🎚️ [Product Engineer](https://docs.google.com/document/d/1LeTigJx03hB0s0_0ch4EJEeqDm2Mj44RoRg_wTKoLY0/edit?tab=t.0)
+- 🖌️ [Product Designer](https://docs.google.com/document/d/1fuWVeEnqexVcIAi7m0FpQIJ57MtHlmO1rMHQfQGMr6o/edit?tab=t.0#heading=h.4bqgg1eo9ss3)
 - 🙋 [Suggest a Role to Us](mailto:hello@west.co)
-
-[View all open positions →](careers/)
 
 ---
 
