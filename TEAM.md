@@ -9,23 +9,23 @@ At West Co., we bring together **future technologists** building online platform
 - 🪷 **Tiffani Jones Brown** – Founding COO
 - 🍠 **Long Cheng** – Founding Designer
 - 🌊 **Ben Finkel** – Founding Engineer
-- 🥁 **Lucas Ives** – Engineer
-- 🍊 **Serafina Keltner-…** – Community
-- 🍳 **Frances Lee** – Designer
-- 🎭 **Andrew McClain** – Engineer
-- 🎸 **Michael Podolsky** – Engineer
+- 🥁 **Lucas Ives** – Engineering
+- 🍊 **Serafina Keltner-McNeil** – Community & Production
+- 🍳 **Frances Lee** – Design
+- 🎭 **Andrew McClain** – Engineering
+- 🎸 **Michael Podolsky** – Engineering
 - 🔮 **Evan Sharp** – Founding CEO
-- 💖 **Patrik Stenberg** – Engineer
+- 💖 **Patrik Stenberg** – Engineering
 - 🐝 **Biz Stone** – Founding President
-- 👞 **Isak Wiström** – Engineer
-- ⚡ **Ryan Yeske** – Engineer
+- 👞 **Isak Wiström** – Engineering
+- ⚡ **Ryan Yeske** – Engineering
 
 ---
 
 ## Ancient Technologists
 
+- 🏄🏼‍♂️ **Dacher Keltner** – Founding Scientific Advisor
 - 🐣 **Sue Phillips** – Founding Ancient Technologist
-- 🏄 **Dacher Keltner** – Founding Scientific Advisor
 
 ---
 

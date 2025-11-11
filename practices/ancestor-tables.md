@@ -1,6 +1,6 @@
 # 🕯️ Ancestor Tables
 
-> **We care for an Ancestor Table to stay rooted in what matters.**
+> **We care for an ancestor table to stay rooted in what matters.**
 
 ---
 

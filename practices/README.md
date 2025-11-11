@@ -10,7 +10,7 @@ These practices help us stay connected to each other, rooted in what matters, an
 
 ## 🤲 Small Groups
 
-We use **Small Groups** to deepen our connections.
+We use **small groups** to deepen our connections.
 
 Small groups create intimate spaces where team members can know and be known, building the trust and relationships that make great work possible.
 
@@ -20,7 +20,7 @@ Small groups create intimate spaces where team members can know and be known, bu
 
 ## 🕯️ Ancestor Tables
 
-We care for an **Ancestor Table** to stay rooted in what matters.
+We care for an **ancestor table** to stay rooted in what matters.
 
 The ancestor table practice helps us remember and honor the wisdom that came before us, keeping us grounded in values larger than ourselves.
 
@@ -30,7 +30,7 @@ The ancestor table practice helps us remember and honor the wisdom that came bef
 
 ## ❄️ Working With the Seasons
 
-We **Work With the Seasons** to stay in rhythm with the world.
+We **work with the seasons** to stay in rhythm with the world.
 
 By aligning our work patterns with natural cycles, we honor the rhythms of growth, harvest, rest, and renewal.
 
@@ -40,7 +40,7 @@ By aligning our work patterns with natural cycles, we honor the rhythms of growt
 
 ## 🛟 Practicing Covenant
 
-We **Practice Covenant** to try our best to grow together.
+We **practice covenant** to try our best to grow together.
 
 Covenant practice means making commitments to each other and the work we do together, creating the foundation for long-term growth and trust.
 
