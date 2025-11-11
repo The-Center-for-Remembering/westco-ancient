@@ -1,10 +1,6 @@
-# 🛟 Practicing Covenant
+# 🛟 Practicing Covenant @ West Co
 
 **We practice covenant to try our best to grow together.**
-
----
-
-## Founding Team Covenant Practice @ West Co
 
 Covenant is a noun and a verb. It's both the set of promises we make to each other and the practice of reflecting on them.
 

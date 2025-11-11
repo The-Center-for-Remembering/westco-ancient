@@ -1,10 +1,6 @@
-# 🤲 Small Groups
+# 🤲 Small Groups @ West Co.
 
 **We use small groups to deepen our connections.**
-
----
-
-## Small Groups @ West Co
 
 Everyone on our team gathers every two weeks in a small group. The same groups of 6-8 people meet for six months, with rotating leadership based on the simple script below. After about six months we mix up the groups and refresh the format, but it always includes grounding silence, two simple reflection questions, and times for each person to speak. Folks can always pass. There's no crosstalk – this isn't a group discussion, but a time to listen and reflect. The whole conversation takes 40-45 minutes. No one stresses about leading because the format is so simple. Whoever feels like leading that day does.
 

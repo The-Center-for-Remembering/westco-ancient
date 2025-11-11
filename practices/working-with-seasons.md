@@ -1,10 +1,6 @@
-# ❄️ Working With the Seasons
+# ❄️ Working With the Seasons @ West Co
 
 **We work with the seasons to stay in rhythm with the world.**
-
----
-
-## Seasons @ West Co.
 
 The product we’re making helps people experience time differently. We don’t think we can build this experience effectively until we too are off autopilot and live more in sync with natural rhythms. That’s why instead of talking about quarters and fiscal years we synchronize our team and production schedules with seasons. 
 

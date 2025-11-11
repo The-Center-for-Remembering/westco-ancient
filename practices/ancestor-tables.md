@@ -1,10 +1,6 @@
-# 🕯️ Ancestor Tables
+# 🕯️ Ancestor Table @ West Co.
 
 **We care for an ancestor table to stay rooted in what matters.**
-
----
-
-## Ancestor Table @ West Co.
 
 Our ancestors have a treasured place in our physical space and daily routine. These are our grandparents, uncles, teachers, mentors, children, exemplars, parents, and saints. They greet us every day, reminding us of the many lineages we share, of the stories they have told us and the lessons they would have us remember.
 
