@@ -1,6 +1,6 @@
 # 🛟 Practicing Covenant
 
-> **We Practice Covenant to try our best to grow together.**
+**We practice covenant to try our best to grow together.**
 
 ---
 

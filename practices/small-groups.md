@@ -1,6 +1,6 @@
 # 🤲 Small Groups
 
-> **We use small groups to deepen our connections.**
+**We use small groups to deepen our connections.**
 
 ---
 

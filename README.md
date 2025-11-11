@@ -1,6 +1,4 @@
-# <img src="assets/logo.svg" width="44" alt="West Co. Logo" style="vertical-align: middle;"> West Co.
-
-[Visit west.co →](https://west.co)
+# <img src="assets/logo.svg" width="44" alt="West Co. Logo" style="vertical-align: middle;"> [West Co.](https://west.co)
 
 ## Workshop for Emotional and Spiritual Technology Corporation
 
@@ -44,8 +42,6 @@ We invest about **3% of our time** into these practices, fostering **100% more t
 - 🕯️ [Ancestor Tables](practices/ancestor-tables.md) – Stay rooted in what matters
 - ❄️ [Working With the Seasons](practices/working-with-seasons.md) – Stay in rhythm with the world
 - 🛟 [Practicing Covenant](practices/practicing-covenant.md) – Try our best to grow together
-
-[Learn about our practices →](https://west.co/#practices)
 
 ---
 
