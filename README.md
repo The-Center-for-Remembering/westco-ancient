@@ -36,7 +36,7 @@ We partner **future technologists** inventing online platforms with **ancient te
 
 ## How We Work
 
-> We've learned that **how we are together** becomes the **impact we have together**.
+We've learned that **how we are together** becomes the **impact we have together**.
 
 We invest about **3% of our time** into these practices, fostering **100% more team depth**.
 
