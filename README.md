@@ -1,6 +1,6 @@
-# West Co.
+# <img src="assets/logo.svg" width="44" alt="West Co. Logo" style="vertical-align: middle;"> West Co.
 
-<img src="assets/logo.svg" width="44" alt="West Co. Logo">
+[Visit west.co →](https://west.co)
 
 ## Workshop for Emotional and Spiritual Technology Corporation
 
@@ -8,9 +8,7 @@ Building to help people live life more on purpose.
 
 ---
 
-## Tangle: Life on Purpose
-
-<img src="assets/tangle-icon.svg" width="120" alt="Tangle App Icon">
+## <img src="assets/tangle-icon.svg" width="36" alt="Tangle App Icon" style="vertical-align: middle;"> Tangle: Life on Purpose
 
 Try **Tangle** – available on the App Store.
 
@@ -57,5 +55,7 @@ We invest about **3% of our time** into these practices, fostering **100% more t
 
 **West Co. is a Public Benefit Corporation.**
 We are based in San Francisco, CA.
+
+Visit us at [west.co](https://west.co)
 
 Want to say hi? Email [hello@west.co](mailto:hello@west.co)
