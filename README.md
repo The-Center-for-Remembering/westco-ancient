@@ -10,9 +10,7 @@ Building to help people live life more on purpose.
 
 ## <img src="assets/tangle-icon.svg" width="36" alt="Tangle App Icon" style="vertical-align: middle;"> Tangle: Life on Purpose
 
-Try **Tangle** – available on the App Store.
-
-[Download on the App Store](https://apps.apple.com/us/app/tangle-life-on-purpose/id6596770837)
+Try **Tangle** – [available on the App Store](https://apps.apple.com/us/app/tangle-life-on-purpose/id6596770837).
 
 ---
 
