@@ -38,8 +38,6 @@ We are **future technologists** inventing online platforms and **ancient technol
 
 We've learned that **how we are together** becomes the **impact we have together**.
 
-We invest about **3% of our time** into these practices, fostering **100% more team depth**.
-
 ### Our Practices
 
 - 🤲 [Small Groups](practices/small-groups.md) – Deepen our connections
@@ -56,4 +54,5 @@ We are based in San Francisco, CA.
 
 Visit us at [west.co](https://west.co)
 
-Want to say hi? Email [hello@west.co](mailto:hello@west.co)
+**Stay in touch.**
+Join our email list for occassional updates! [hello@west.co](mailto:hello@west.co)
