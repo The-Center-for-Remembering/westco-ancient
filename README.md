@@ -2,19 +2,21 @@
 
 ## Workshop for Emotional and Spiritual Technology Corporation
 
-Building to help people live life more on purpose.
+We build tools to help people live life more on purpose.
 
 ---
 
 ## <img src="assets/tangle-icon.svg" width="36" alt="Tangle App Icon" style="vertical-align: middle;"> Tangle: Life on Purpose
 
-Try **Tangle** – [available on the App Store](https://apps.apple.com/us/app/tangle-life-on-purpose/id6596770837).
+**Introducing Tangle (alpha):**
+An app for living with intention.
+ – [available on the App Store](https://apps.apple.com/us/app/tangle-life-on-purpose/id6596770837).
 
 ---
 
 ## Join Our Team
 
-We're building something special and looking for passionate people to join us.
+Join our team!
 
 - 🎚️ [Product Engineer](https://docs.google.com/document/d/1LeTigJx03hB0s0_0ch4EJEeqDm2Mj44RoRg_wTKoLY0/edit?tab=t.0)
 - 🖌️ [Product Designer](https://docs.google.com/document/d/1fuWVeEnqexVcIAi7m0FpQIJ57MtHlmO1rMHQfQGMr6o/edit?tab=t.0#heading=h.4bqgg1eo9ss3)
