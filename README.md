@@ -24,12 +24,11 @@ Join our team!
 
 
 
-
 ---
 
 ## Who We Are
 
-We partner **future technologists** inventing online platforms with **ancient technologists** devoted to wisdom.
+We are **future technologists** inventing online platforms and **ancient technologists** devoted to wisdom.
 
 [Meet the team →](TEAM.md)
 
