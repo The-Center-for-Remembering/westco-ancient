@@ -20,6 +20,9 @@ Join our team!
 
 - 🎚️ [Product Engineer](https://docs.google.com/document/d/1LeTigJx03hB0s0_0ch4EJEeqDm2Mj44RoRg_wTKoLY0/edit?tab=t.0)
 - 🖌️ [Product Designer](https://docs.google.com/document/d/1fuWVeEnqexVcIAi7m0FpQIJ57MtHlmO1rMHQfQGMr6o/edit?tab=t.0#heading=h.4bqgg1eo9ss3)
+- 📢 [Coming soon: Marketing leader](https://docs.google.com/document/d/1nHK2HLYiZxQllSP3eIzYJnGC-c4LrWI3f28dYq1Llio/edit?tab=t.0#heading=h.4bqgg1eo9ss3)
+
+
 
 
 ---
