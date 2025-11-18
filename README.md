@@ -14,7 +14,7 @@ Try **Tangle** – [available on the App Store](https://apps.apple.com/us/app/ta
 
 ## Join Our Team
 
-We're building something special and looking for passionate people to join us.
+Join our team!
 
 - 🎚️ [Product Engineer](https://docs.google.com/document/d/1LeTigJx03hB0s0_0ch4EJEeqDm2Mj44RoRg_wTKoLY0/edit?tab=t.0)
 - 🖌️ [Product Designer](https://docs.google.com/document/d/1fuWVeEnqexVcIAi7m0FpQIJ57MtHlmO1rMHQfQGMr6o/edit?tab=t.0#heading=h.4bqgg1eo9ss3)
